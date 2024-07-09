@@ -1,0 +1,101 @@
+[
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:02:28",
+    "fecha_y_hora_fin": "2024-06-19 13:02:34",
+    "usuario": "Xexu (xexu@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\u2708\ufe0f Aeropuertos",
+    "respuestas_correctas": 0,
+    "puntaje": 0
+  },
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:02:40",
+    "fecha_y_hora_fin": "2024-06-19 13:02:42",
+    "usuario": "Solcha (solcitoowo@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\u2708\ufe0f Aeropuertos",
+    "respuestas_correctas": 3,
+    "puntaje": 3
+  },
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:02:53",
+    "fecha_y_hora_fin": "2024-06-19 13:02:56",
+    "usuario": "johndoe (johndoe@gmail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\ud83d\udce1 Conectividad",
+    "respuestas_correctas": 3,
+    "puntaje": 3
+  },
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:03:05",
+    "fecha_y_hora_fin": "2024-06-19 13:03:08",
+    "usuario": "Xexu (xexu@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\ud83c\udfde\ufe0f Lagos",
+    "respuestas_correctas": 2,
+    "puntaje": 2
+  },
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:03:42",
+    "fecha_y_hora_fin": "2024-06-19 13:03:47",
+    "usuario": "Xexu (xexu@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\u2708\ufe0f Aeropuertos",
+    "respuestas_correctas": 0,
+    "puntaje": 0
+  },
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:04:02",
+    "fecha_y_hora_fin": "2024-06-19 13:04:05",
+    "usuario": "Xexu (xexu@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\u2708\ufe0f Aeropuertos",
+    "respuestas_correctas": 2,
+    "puntaje": 2
+  },
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:04:22",
+    "fecha_y_hora_fin": "2024-06-19 13:05:08",
+    "usuario": "Solcha (solcitoowo@mail.com)",
+    "dificultad": "\ud83d\udfe1 Media: Se le informa la cantidad de palabras de la respuesta.",
+    "tematica": "\ud83d\udce1 Conectividad",
+    "respuestas_correctas": 5,
+    "puntaje": 5
+  },
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:06:09",
+    "fecha_y_hora_fin": "2024-06-19 13:06:14",
+    "usuario": "Solcha (solcitoowo@mail.com)",
+    "dificultad": "\ud83d\udfe1 Media: Se le informa la cantidad de palabras de la respuesta.",
+    "tematica": "\ud83d\udce1 Conectividad",
+    "respuestas_correctas": 2,
+    "puntaje": 2
+  },
+  {
+    "fecha_y_hora_inicio": "2024-06-19 13:07:17",
+    "fecha_y_hora_fin": "2024-06-19 13:07:24",
+    "usuario": "Solcha (solcitoowo@mail.com)",
+    "dificultad": "\ud83d\udfe1 Media: Se le informa la cantidad de palabras de la respuesta.",
+    "tematica": "\ud83d\udce1 Conectividad",
+    "respuestas_correctas": 2,
+    "puntaje": 3.0
+  },
+  {
+    "fecha_y_hora_inicio": "2024-07-19 13:26:12",
+    "fecha_y_hora_fin": "2024-07-19 13:26:14",
+    "usuario": "Solcha (solcitoowo@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\u2708\ufe0f Aeropuertos",
+    "respuestas_correctas": 1,
+    "puntaje": 1
+  },
+  {
+    "fecha_y_hora_inicio": "2024-07-09 01:09:55",
+    "fecha_y_hora_fin": "2024-07-09 01:10:00",
+    "usuario": "Xexu (xexu@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\u2708\ufe0f Aeropuertos",
+    "respuestas_correctas": 1,
+    "puntaje": 1
+  }
+]

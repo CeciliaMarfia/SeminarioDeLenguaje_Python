@@ -6,13 +6,13 @@ import sys
 import datetime
 import pandas as pd
 import os
-from paths import USER_DB_PATH  # noqa
+
 st.set_page_config(page_title='Página de Juego 🎮')
 
 cwd = Path('.').resolve()
 sys.path.append(str(cwd))
 
-
+from paths import USER_DB_PATH  # noqa
 from paths import MATCH_DB_PATH  # noqa
 
 try:

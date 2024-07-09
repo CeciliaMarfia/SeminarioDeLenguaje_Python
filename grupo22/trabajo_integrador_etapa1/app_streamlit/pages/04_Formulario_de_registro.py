@@ -23,7 +23,7 @@ def form_page():
                                       min_value=datetime(1900, 1, 1),
                                       max_value=datetime.now())
         gender = st.radio(
-            'Género', ['Masculino', 'Femenino', 'Otro', 'Prefiero no decirlo'])
+            'Género', ['Masculino', 'Femenino', 'Otrx', 'Prefiero no decirlo'])
 
         submitted = st.form_submit_button("Registrarse")
 

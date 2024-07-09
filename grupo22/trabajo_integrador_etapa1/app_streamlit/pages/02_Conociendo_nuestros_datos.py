@@ -8,7 +8,7 @@ sys.path.append(str(cwd))
 
 from paths import AR_AIRPORTS_COPY_DATA  # noqa
 from paths import LAGOS_COPY_DATA  # noqa
-from app_streamlit.helpers.conociendo_nuestros_datos_helpers import *  # noqa
+from helpers.conociendo_nuestros_datos_helpers import *  # noqa
 
 df_airports = pd.read_csv(AR_AIRPORTS_COPY_DATA)
 df_lagos = pd.read_csv(LAGOS_COPY_DATA)

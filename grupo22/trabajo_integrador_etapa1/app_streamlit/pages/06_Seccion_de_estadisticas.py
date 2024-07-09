@@ -41,7 +41,7 @@ except (FileNotFoundError, json.decoder.JSONDecodeError):
 color_mapping = {
     'Femenino': '#FF69B4',
     'Masculino': '#87CEFA',
-    'Otro': '#E6E6FA',
+    'Otrx': '#E6E6FA',
     'Prefiero no decirlo': '#FAFAD2'
 }
 st.markdown("""
@@ -411,7 +411,7 @@ st.markdown(subtitle, unsafe_allow_html=True)
 # Crea un diccionario para almacenar las respuestas correctas por temática y género
 respuestas_por_genero_y_tematica = {}
 
-generos = ['Masculino', 'Femenino', 'Otro', 'Prefiero no decirlo']
+generos = ['Masculino', 'Femenino', 'Otrx', 'Prefiero no decirlo']
 
 # Procesa el JSON de partidas
 for partida in matches:
