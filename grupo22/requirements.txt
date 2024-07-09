@@ -1,0 +1,6 @@
+ipykernel==6.29.3
+notebook==7.1.2
+streamlit==1.33.0
+pandas==2.2.2
+matplotlib==3.9.0
+streamlit_folium==0.20.0

@@ -1,0 +1,38 @@
+{
+    "xexu@mail.com": {
+        "username": "Xexu",
+        "name_surname": "Cecilia Marfia",
+        "dob": "1995-09-08",
+        "gender": "Femenino"
+    },
+    "solcitoowo@mail.com": {
+        "username": "Solcha",
+        "name_surname": "Sol Justina Arroyo Tabari",
+        "dob": "1999-11-02",
+        "gender": "Femenino"
+    },
+    "agus@mail.com": {
+        "username": "Agus",
+        "name_surname": "Mar\u00eda Agustina Olia",
+        "dob": "2004-01-02",
+        "gender": "Femenino"
+    },
+    "johndoe@gmail.com": {
+        "username": "johndoe",
+        "name_surname": "John Doe",
+        "dob": "1999-06-17",
+        "gender": "Masculino"
+    },
+    "fulano@mail.com": {
+        "username": "Fulanito",
+        "name_surname": "Fulano Prueba",
+        "dob": "2000-07-25",
+        "gender": "Prefiero no decirlo"
+    },
+    "mengano@mail.com": {
+        "username": "Mengano",
+        "name_surname": "Mengano Ejemplo",
+        "dob": "1990-07-19",
+        "gender": "Otro"
+    }
+}

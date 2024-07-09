@@ -1,0 +1,65 @@
+[
+  {
+    "fecha_y_hora_inicio": "2024-07-02 15:44:42",
+    "fecha_y_hora_fin": "2024-07-02 15:44:46",
+    "usuario": "johndoe (johndoe@gmail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\ud83c\udfde\ufe0f Lagos",
+    "respuestas_correctas": 1,
+    "puntaje": 1
+  },
+  {
+    "fecha_y_hora_inicio": "2024-07-03 15:13:05",
+    "fecha_y_hora_fin": "2024-07-03 15:13:34",
+    "usuario": "Fulanito (fulano@mail.com)",
+    "dificultad": "\ud83d\udfe1 Media: Se le informa la cantidad de palabras de la respuesta.",
+    "tematica": "\u2708\ufe0f Aeropuertos",
+    "respuestas_correctas": 2,
+    "puntaje": 3.0
+  },
+  {
+    "fecha_y_hora_inicio": "2024-07-03 15:14:22",
+    "fecha_y_hora_fin": "2024-07-03 15:14:27",
+    "usuario": "Mengano (mengano@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\ud83d\udce1 Conectividad",
+    "respuestas_correctas": 2,
+    "puntaje": 2
+  },
+  {
+    "fecha_y_hora_inicio": "2024-07-03 15:14:37",
+    "fecha_y_hora_fin": "2024-07-03 15:14:40",
+    "usuario": "Mengano (mengano@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\ud83c\udfde\ufe0f Lagos",
+    "respuestas_correctas": 1,
+    "puntaje": 1
+  },
+  {
+    "fecha_y_hora_inicio": "2024-07-03 15:14:52",
+    "fecha_y_hora_fin": "2024-07-03 15:14:56",
+    "usuario": "Xexu (xexu@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\ud83d\udce1 Conectividad",
+    "respuestas_correctas": 2,
+    "puntaje": 2
+  },
+  {
+    "fecha_y_hora_inicio": "2024-07-03 15:17:41",
+    "fecha_y_hora_fin": "2024-07-03 15:17:44",
+    "usuario": "Solcha (solcitoowo@mail.com)",
+    "dificultad": "\ud83d\udfe2 F\u00e1cil: Se le brindan respuestas de las cuales una es la correcta.",
+    "tematica": "\u2708\ufe0f Aeropuertos",
+    "respuestas_correctas": 2,
+    "puntaje": 2
+  },
+  {
+    "fecha_y_hora_inicio": "2024-07-03 15:18:26",
+    "fecha_y_hora_fin": "2024-07-03 15:19:00",
+    "usuario": "Agus (agus@mail.com)",
+    "dificultad": "\ud83d\udd34 Alta: No se brindan ayudas.",
+    "tematica": "\ud83d\udce1 Conectividad",
+    "respuestas_correctas": 5,
+    "puntaje": 10
+  }
+]
